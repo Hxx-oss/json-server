@@ -4,31 +4,36 @@
       "id": 1,
       "type": 1,
       "take_code": "9527",
-      "take_address": "女生宿舍L5-1"
+      "take_address": "女生宿舍L5-1",
+      "take_type":1
     },
     {
       "id": 2,
       "type": 2,
       "take_code": "5722",
-      "take_address": "女生宿舍L2-1"
+      "take_address": "女生宿舍L2-1",
+      "take_type":1
     },
     {
       "id": 3,
       "type": 3,
       "take_code": "3322",
-      "take_address": "女生宿舍L3-1"
+      "take_address": "女生宿舍L3-1",
+      "take_type":1
     },
     {
       "id": 4,
       "type": 1,
       "take_code": "1144",
-      "take_address": "女生宿舍L4-1"
+      "take_address": "女生宿舍L4-1",
+      "take_type":3
     },
     {
       "id": 5,
       "type": 1,
       "take_code": "4444",
-      "take_address": "女生宿舍L4-1"
+      "take_address": "女生宿舍L4-1",
+      "take_type":2
     }
   ],
   "HomeSchoolCanteen":"第一食堂位于德阳校区南区办公楼右侧，分为1楼和2楼，可同时容纳500人就餐，设有家常菜窗口、小炒窗口、凉菜窗口等。营业时间为6：30~21：00，其中特色菜..."
