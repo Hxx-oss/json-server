@@ -4,7 +4,27 @@
       "order": [
         {
           "id":1,
-          "type":1
+          "type":1,
+          "take_code":"9527",
+          "take_address":"女生宿舍L5-1"
+        },
+        {
+          "id":2,
+          "type":2,
+          "take_code":"5722",
+          "take_address":"女生宿舍L2-1"
+        },
+        {
+          "id":3,
+          "type":3,
+          "take_code":"3322",
+          "take_address":"女生宿舍L3-1"
+        },
+        {
+          "id":4,
+          "type":1,
+          "take_code":"1144",
+          "take_address":"女生宿舍L4-1"
         }
       ]
     }
